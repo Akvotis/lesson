@@ -1,0 +1,8 @@
+.Profile {
+  grid-area: content;
+}
+.Profile img {
+  width: 100%;
+  max-width: 1000px;
+  height: 250px;
+}

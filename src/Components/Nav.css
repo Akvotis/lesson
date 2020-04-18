@@ -1,0 +1,9 @@
+.nav {
+  grid-area: nav;
+  background-color: rgba(118, 21, 182, 0.849);
+  /* margin-top: 10px; */
+}
+.nav__item a {
+    text-decoration: none;
+    color: white;
+}
